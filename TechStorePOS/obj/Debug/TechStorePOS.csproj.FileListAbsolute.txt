@@ -1,0 +1,36 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\bin\Debug\TechStorePOS.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\bin\Debug\TechStorePOS.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\bin\Debug\TechStorePOS.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\bin\Debug\itextsharp.dll
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.SalesForm.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.AdminForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.AddEditProductForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.MerchantForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.InvoiceForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.PaymentForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.AdminMerchant.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.index.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.adminSales.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\bin\Debug\TechStorePOS.exe.config
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.exe
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.pdb
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\bin\Debug\TechStorePOS.exe
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\bin\Debug\TechStorePOS.pdb
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\bin\Debug\itextsharp.dll
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.csprojResolveAssemblyReference.cache
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.AddEditProductForm.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.AdminForm.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.AdminMerchant.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.adminSales.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.index.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.InvoiceForm.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.MerchantForm.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.PaymentForm.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.SalesForm.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.Properties.Resources.resources
+C:\Users\mouha\Desktop\TechStorePOS\TechStorePOS\TechStorePOS\obj\Debug\TechStorePOS.csproj.GenerateResource.Cache
